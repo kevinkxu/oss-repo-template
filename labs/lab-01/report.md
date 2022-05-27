@@ -10,6 +10,10 @@ b.  When working with open source software, one should be wary of how people can
     to make a profit, even if it means ruthlessly cracking down on well intentioned software. Open source software is
     important because it allows many people to access software online.
 
+## 3
+
+![image](https://user-images.githubusercontent.com/35581753/170741608-e5aa9c06-6839-4ca3-869a-00a942795754.png)
+
 ## 5
 
 ![image](https://user-images.githubusercontent.com/35581753/170737779-ad2f8563-60da-4d8d-be97-bcc12321fbd8.png)
