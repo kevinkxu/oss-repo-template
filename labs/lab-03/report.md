@@ -8,3 +8,10 @@
 
    C:\Users\xuk5\Documents\code\CSCI-4470-OpenSource\Modules\01.Introduction\History\build\latex
 
+## 2
+
+a. 
+
+   i. Ostia: 4 contributors, 16323 lines, last commit - remove docker stuff, first commit - Initial commit, branches (master, reactify)
+   ii. EveOnlineMarket Analysis Tool: 6 contributors, 62346 lines, last commit - Create stylesheet.css, first commit - Type ID, branches
+   (develop, master, Merge, dygraphs, Web)|
