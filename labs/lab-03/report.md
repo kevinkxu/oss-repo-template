@@ -12,7 +12,16 @@
 
 a. 
 
-   i. Ostia: 4 contributors, 16323 lines, last commit - remove docker stuff, first commit - Initial commit, branches (master, reactify)
-   
-   ii. EveOnlineMarket Analysis Tool: 6 contributors, 62346 lines, last commit - Create stylesheet.css, first commit - Type ID, branches
-   (develop, master, Merge, dygraphs, Web)|
+i. Ostia: 4 contributors, 16323 lines, last commit - [remove docker stuff](https://github.com/adamlawrencium/Ostia/commit/c6c31d416a0b2cf1066e393e4d8c9b2699d72ff9), 
+
+first commit - [Initial commit](https://github.com/adamlawrencium/Ostia/commit/53bcb3649b99a550efd593ede918ae170090e85c), branches - 
+
+https://github.com/adamlawrencium/Ostia/branches
+
+ii. EveOnlineMarket Analysis Tool: 6 contributors, 62346 lines, last commit - [Create stylesheet.css]
+
+(https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool/commit/e762a0128c7dd1a01706988cd7d831d18facecc4), first commit - [Type ID]
+
+(https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool/commit/90aa5d24e1d6e1fa171d4cd17bc1bd09b7924d83), branches - 
+
+https://github.com/funnymanpatrick/EveOnlineMarketAnalysisTool/branches
