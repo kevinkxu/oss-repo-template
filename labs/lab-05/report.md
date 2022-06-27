@@ -16,3 +16,16 @@ Linux is licensed under the GPL 2.0 license because the distributors intended Li
 
 ## 7
 
+https://github.com/kevinkxu/q7.git
+
+## 8
+
+https://github.com/V2grad/Organizer : MIT license https://github.com/V2grad/Organizer/blob/dummy/LICENSE
+
+https://github.com/alexanderfrancoletti/beyondthegrave : MIT license https://github.com/AlexanderFrancoletti/BeyondTheGrave/blob/master/LICENSE.txt
+
+https://github.com/iansteenstra/rcos-constellation : no license
+
+https://github.com/aesakamar/treeapp : https://github.com/AesaKamar/TreeApp/blob/master/LICENSE
+
+https://github.com/adamlawrencium/Ostia : MIT license https://github.com/adamlawrencium/Ostia/blob/master/LICENSE
